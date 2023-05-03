@@ -1,0 +1,4 @@
+Logistic regression.ipynb has errors generated through code intentionally kept to know why they have come. 
+Binary
+Multi-class logistic regression
+Need to understand mathematics more behind the regularization in ElasticNet, CV, etc.
